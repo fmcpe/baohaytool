@@ -6,6 +6,9 @@ termux setup storage && pkg update && pkg install git
 
 git clone github.com/fmcpetermux/baohaytool
 
-và cd baohaytool nhaaaaa
+cd baohaytool
+
+bash start.sh
+
 
 Tool by DAG - TOOL
