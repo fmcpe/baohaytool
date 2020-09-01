@@ -8,7 +8,7 @@ git clone github.com/fmcpetermux/baohaytool
 
 cd baohaytool
 
-bash start.sh
+bash baohay.sh
 
 
 Tool by DAG - TOOL
